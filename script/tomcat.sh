@@ -2,7 +2,7 @@
 
 sudo apt update
 
-sudo apt -y upgrade
+sudo apt upgrade
 
 sudo apt -y install openjdk-11-jdk
 
